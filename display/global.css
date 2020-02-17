@@ -1,0 +1,97 @@
+:root {
+  /* Site Defaults */
+
+  --primary-color: green;
+  --primary-color-lighter: green;
+  --primary-color-darker: green;
+
+  --secondary-color: #26abe2;
+  --secondary-color-lighter: #53bce8;
+  --secondary-color-darker: #198cbc;
+
+  --background-color: #ffffff;
+  /* --background-image: */
+
+  /* Global Donts */
+
+  --font-color: #000000;
+  /*--font-weight: */
+  --font-size: 1rem;
+  --font-family-primary: "Montserrat", "Lucida Sans", "Lucida Sans Regular",
+    "Lucida Grande", "Lucida Sans Unicode", "Verdana", sans-serif;
+  /* --font-family-secondary:  */
+  /* --font-shaddow: */
+
+  /* Card Headers */
+  /* --card-header-background-color: */
+  --card-header-font-color: #ffffff;
+  /*--card-header-font-weight: */
+  --card-header-font-size: 1.375rem;
+  /*--card-header-font-family: */
+  /*--card-header-font-shaddow: */
+
+  /* Cards */
+  --card-background-color: #eeeeee;
+  --card-font-color: #000000;
+  /*--card-font-weight: */
+  /*--card-font-size: */
+  /*--card-font-family: */
+  /*--card-font-shaddow: */
+
+  /* Primary Button */
+  --primary-button-font-color: #ffffff;
+  /*--primary-button-font-weight: */
+  /*--primary-button-font-size: */
+  /*--primary-button-font-family: */
+  /*--primary-button-font-shaddow: */
+
+  /* Secondary Button */
+  --secondary-button-font-color: #ffffff;
+  /*--secondary-button-font-weight: none; */
+  /*--secondary-button-font-size: none; */
+  /*--secondary-button-font-family: none; */
+  /*--secondary-button-font-shaddow: 2px 2px #ff0000; */
+
+  /* Ghost Button */
+  --ghost-button-background-color: #ffffff;
+  --ghost-button-font-color: #f47633;
+  /*--ghost-button-font-weight:  */
+  /*--ghost-button-font-size:  */
+  /*--ghost-button-font-family:  */
+  /* --ghost-button-font-shaddow:  */
+
+  /* h1 */
+  /* --h1-font-color: none;
+  --h1-font-weight: none;
+  --h1-font-size: none;
+  --h1-font-family: none;
+  --h1-font-shaddow: 2px 2px #ff0000; */
+
+  /* h2 */
+  /* --h2-font-color: none;
+  --h2-font-weight: none; */
+  --h2-font-size: 1.45rem; 
+  /*--h2-font-family: none;
+  --h2-font-shaddow: 2px 2px #ff0000; */
+
+  /* h3 */
+  /* --h3-font-color: none;
+  --h3-font-weight: none;
+  --h3-font-size: none;
+  --h3-font-family: none;
+  --h3-font-shaddow: 2px 2px #ff0000; */
+
+  /* h4 */
+  /* --h4-font-color: none;
+  --h4-font-weight: none;
+  --h4-font-size: none;
+  --h4-font-family: none;
+  --h4-font-shaddow: 2px 2px #ff0000; */
+
+  /* basket price */
+  /* --basketprice-font-color: none;
+  --basketprice-font-weight: none;
+  --basketprice-font-size: none;
+  --basketprice-font-family: none;
+  --basketprice-font-shaddow: 2px 2px #ff0000; */
+}

@@ -1,0 +1,21 @@
+date:
+  format: MM/DD/YYYY 
+  longFormat: Do MMMM YYYY
+currency:
+  code: GBP
+  symbol: "£"
+paxconfig:
+  isAdultRequired: true
+  adultAgeRange:
+    - 18
+  childrenAgeRange:
+    - 2
+    - 17
+  infantAgeRange:
+    - 0
+    - 1
+  maxPax: 6
+  minAdults: 1
+  maxPerRoom: 3
+  maxRoomCount: 3
+  defaultAdults: 2
